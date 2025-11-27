@@ -1,8 +1,5 @@
 # 🚀 Tandemloop Screening Test - Solutions
 
-![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Author](https://img.shields.io/badge/Author-B_Kiran-blue?style=for-the-badge)
 
 Welcome! This repository contains the source code for the **Stage-1 Screening Test** for the Full Stack Developer position at **Tandemloop**.
 
@@ -25,7 +22,7 @@ The solutions are implemented in **Java**, with each problem isolated in its own
 
 * **Programming Language:** Java (JDK 8+)
 * **Libraries:** `java.util.Scanner`, `java.util.HashMap`, `java.util.Map`, `java.util.ArrayList`
-* **Tools:** [Your IDE Name, e.g., Eclipse / IntelliJ / VS Code]
+* **Tools:** Visual Studio Code / IntelliJ IDEA
 
 ---
 
@@ -33,7 +30,7 @@ The solutions are implemented in **Java**, with each problem isolated in its own
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/YourUsername/B_Kiran_Screening_Assessment.git](https://github.com/YourUsername/B_Kiran_Screening_Assessment.git)
+    git clone [https://github.com/bkiran2003/B_Kiran_Tandemloop_Test.git](https://github.com/bkiran2003/B_Kiran_Tandemloop_Test.git)
     ```
 
 2.  **Compile the Files**
@@ -62,6 +59,6 @@ The solutions are implemented in **Java**, with each problem isolated in its own
 
 **B KIRAN**
 * **Role:** Full Stack Developer Applicant
-* **Github:** [Link to your profile]
+* **Github:** [bkiran2003](https://github.com/bkiran2003)
 
 _Thank you for reviewing my submission!_
