@@ -30,7 +30,7 @@ The solutions are implemented in **Java**, with each problem isolated in its own
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/bkiran2003/B_Kiran_Tandemloop_Test.git](https://github.com/bkiran2003/B_Kiran_Tandemloop_Test.git)
+    git clone [https://github.com/bkiran2003/B_Kiran_Tandemloop_Test.git]
     ```
 
 2.  **Compile the Files**
